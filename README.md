@@ -2,11 +2,13 @@
 
 ## pakcage requirement
 
+```
 ├── requirements
 │   ├── base.txt       # project base pakcage
 │   ├── local.txt      # project develop pakcage
 │   └── production.txt # production package
 └── requirements.txt   # production package
+```
 
 
 ## private packages
