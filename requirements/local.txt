@@ -1,0 +1,7 @@
+-r base.txt
+
+ipython
+isort
+flake8
+black==19.3b0
+pre-commit
