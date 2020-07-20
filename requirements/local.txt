@@ -3,5 +3,5 @@
 ipython
 isort
 flake8
-black==19.3b0
+black
 pre-commit
